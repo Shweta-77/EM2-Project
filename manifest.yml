@@ -1,0 +1,7 @@
+---
+applications:
+- name: webapp--20489
+  memory: 64M
+  host: webapp--20489
+  domain: eu-gb.mybluemix.net
+  buildpack: http://localhost:8080/webapp/index.jsp
